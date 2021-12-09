@@ -1,0 +1,16 @@
+table{
+    text-align: center;
+    
+    border: 1px solid rgb(12, 12, 12);
+    background-color: blanchedalmond;
+    border-collapse: collapse;
+    border-color: red 20px;
+    table-layout: auto; width:100%;
+}
+td{
+    border: 1px solid rgb(12, 12, 12);
+}
+
+th{
+   border: 1px solid rgb(12, 12, 12)
+}

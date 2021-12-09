@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(102, 93, 91);
+}
+h1{
+    text-align: center;
+    color: snow;
+}
+form{
+    
+    border-radius: 20px;
+	padding: 50px 20px;
+	background-color: #9fd1ff;
+	margin: calc(15% + 50px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
+}
+#Did{
+    text-align: center;
+}
+#marcaN{
+    text-align: left;
+}
+table{
+    text-align: center;
+    
+    border: 1px solid rgb(136, 128, 250);
+    background-color: rgb(205, 253, 255);
+    border-collapse: collapse;
+    border-color: rgb(240, 240, 240) 20px;
+    table-layout: auto; width:100%;
+    border-radius: 20px;
+}
+#BE{
+    color:snow;
+    background-color: tomato;
+    border-color: slategrey;
+    width: calc(100% - 20px);
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px
+    
+}
+
+input[type="button"]{
+    background-color: rgb(251, 255, 0);
+	color: rgb(0, 0, 0);
+	width: 100%;
+}

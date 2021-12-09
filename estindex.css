@@ -1,0 +1,15 @@
+input[type="button"]{
+    background-color: rgb(204, 62, 204);
+    color:snow;
+    border-color: rgb(41, 128, 214);
+    width: 230px;
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px;
+    border-radius: 10px;
+    text-align-last: center;
+}
+form{
+    text-align-last: justify;
+}
